@@ -2,7 +2,7 @@
 
 A modern AI chat interface built with **React + Vite + Tailwind CSS**, powered by the **OpenAI API** with real-time streaming responses.
 
-![Tech Stack](https://img.shields.io/badge/React-18-61DAFB?logo=react) ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-3-38BDF8?logo=tailwindcss)
+![npm](https://img.shields.io/npm/v/ai-chat-app) ![Tech Stack](https://img.shields.io/badge/React-18-61DAFB?logo=react) ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-3-38BDF8?logo=tailwindcss)
 
 ## ✨ Features
 
@@ -68,6 +68,16 @@ src/
 ## 🔑 API Key Note
 
 Your API key is stored locally in your browser (`localStorage`) and is only ever sent directly to the OpenAI API — it never touches any intermediary server.
+
+## 📦 npm Release
+
+Install from npm:
+
+```bash
+npm install ai-chat-app
+```
+
+View the published package on npm: https://www.npmjs.com/package/ai-chat-app
 
 ## 📦 Build for Production
 

@@ -1,7 +1,12 @@
 {
   "name": "ai-chat-app",
-  "private": true,
-  "version": "0.1.0",
+  "license": "MIT",
+  "private": false,
+  "version": "0.1.5",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "homepage": "https://www.npmjs.com/package/ai-chat-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
